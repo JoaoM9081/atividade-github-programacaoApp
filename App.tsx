@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Atividade - resolvido conflito 1</Text>
+      <Text>Status: Atividade em desenvolvimento</Text>
       <StatusBar style="auto" />
     </View>
   );
